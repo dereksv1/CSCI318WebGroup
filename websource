@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>
+CSCI 318 Group Ultima
+</title>
+</head>
+
+<body>
+<h1>
+<center>
+Group Ultima
+</center>
+</h1>
+
+<h2>
+Project Summary:
+</h2>
+
+<p>
+The goal of this website is to present the skills developed by group Ultima in HTML and LaTeX. 
+Following CSCI 318's cirriculum this site will be dynamic proportionate to our skill level. With hotlinks to projects attached.
+This site will also provide member roster and contact information.
+
+<h2>
+Class Schedule
+</h2>
+Tuesdays and Thursdays at 3:55PM in room 203.
+
+<h2>
+Group Members:
+</h2>
+<br>
+Kevin Olofson
+<br>
+Derek Vanden-Bulcke
+<br>
+Nicole (Last Name)
+
+
+<p>
+</body>
+
+<address>
+dvandenb@nyit.edu
+<br>
+September 21, 2018
+</address>
+</html>
